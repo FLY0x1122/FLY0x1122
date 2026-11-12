@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu `tty` local. 🐧
 
-Sou um estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em resolver problemas desde o hardware até a nuvem. Quando não estou compilando código, estou fazendo *flash* em BIOS antigas, reparando placas ou configurando minha infraestrutura descentralizada. Acredito no poder do open-source e em ter o controle de `root` sobre o meu ambiente.
+Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em resolver problemas desde o hardware até a nuvem. Quando não estou focado no estudos, estou fazendo *flash* em BIOS antigas, reparando placas ou configurando minha infraestrutura descentralizada. Acredito no poder do open-source e em ter o controle de `root` sobre o meu ambiente.
 
 ### ⚙️ `/etc/profile` (Sobre Mim)
 
@@ -18,6 +18,8 @@ Sou um estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=black)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-FFFFFF?style=for-the-badge&logo=openvpn&logoColor=black)
 
 **Desenvolvimento & Back-end**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -56,3 +58,4 @@ Sou um estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/792326585893126145)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioperera1122@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-nathan-sch%C3%BCler-pereira-2b1ab0420/)
