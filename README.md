@@ -10,7 +10,7 @@ Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em
 - 🔧 **Hardware & Eletrônica:** Experiência com montagem, reparo avançado de hardware, *PC flipping* e microcontroladores (Arduino).
 - 🐧 **Daily Driver:** Fedora KDE / Debian (Terminal-first, sempre que possível).
 - 🌱 **Atualmente explorando:** microcontroladores, programação de aplicativos moveis e web, redes de computadores e segurança.
-- ⚡ **Fora do `/home`:** Gosto de musica e toco violão e violoncelo alem de cantar, tambem gosto de esportes como basquete.
+- ⚡ **Fora do `/home`:** Gosto de musica e toco violão e violoncelo alem de cantar, também gosto de esportes como basquete.
 
 ### 💻 `ls /usr/bin/` (Stack Tecnológico)
 
