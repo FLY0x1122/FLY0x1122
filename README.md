@@ -14,11 +14,12 @@ Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em
 
 ### 💻 `ls /usr/bin/` (Stack Tecnológico)
 
-**Linguagens & Back-end**  
+**Linguagens & Embarcados**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/-python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE)
 ![javascript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **Infraestrutura, Redes e & segurança**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,7 +39,7 @@ Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em
 
 
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 <!-- ![micropython](https://img.shields.io/badge/-micropython-ffffff?style=for-the-badge&logo=micropython&logoColor=2b2728) -->
 
 ### 🚀 `htop` (Projetos em Destaque)
