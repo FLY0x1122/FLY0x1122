@@ -12,7 +12,7 @@ Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em
 - 🌱 **Atualmente explorando:** microcontroladores, programação de aplicativos moveis e web, redes de computadores e segurança.
 - ⚡ **Fora do `/home`:** Gosto de musica e toco violão e violoncelo alem de cantar, também gosto de esportes como basquete.
 
-### 💻 `ls /usr/bin/` (Stack Tecnológico)
+### 💻 `ls /usr/bin/` (Ferramentas)
 
 **Linguagens & Embarcados**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -28,12 +28,12 @@ Sou estudante de Desenvolvimento de Sistemas e entusiasta de hardware, focado em
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=black)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-FFFFFF?style=for-the-badge&logo=openvpn&logoColor=black)
 
-**Inteligência Artificial & Dados**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Inteligência Artificial<!-- & Dados -->**  
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![huggingface](https://img.shields.io/badge/huggingface-ffffff?style=for-the-badge&logo=huggingface&logoColor=#FFD21E)
+<!-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) -->
 
-**Ferramentas**  
+**git**  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
